@@ -200,7 +200,7 @@ const Footer = () => {
           <ul className="space-y-4 text-white/50 text-sm">
             <li className="flex items-center gap-3">
               <Mail className="w-4 h-4 text-brand-blue" />
-              hello@revenueupflow.com
+              hello@revenusupflow.com
             </li>
             <li className="flex items-center gap-3">
               <Phone className="w-4 h-4 text-brand-blue" />
@@ -214,7 +214,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="max-w-7xl mx-auto border-t border-white/5 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-white/30">
-        <p>© 2026 RevenueUpFlow. All rights reserved.</p>
+        <p>© 2026 RevenusUpFlow. All rights reserved.</p>
         <div className="flex gap-6">
           <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
           <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
@@ -846,7 +846,7 @@ const ContactPage = () => {
                 </div>
                 <div>
                   <p className="text-white/40 text-xs uppercase tracking-widest">Email us at</p>
-                  <p className="text-xl font-bold">hello@revenueupflow.com</p>
+                  <p className="text-xl font-bold">hello@revenusupflow.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-6">
