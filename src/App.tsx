@@ -72,7 +72,7 @@ const Navbar = () => {
             <TrendingUp className="text-white w-6 h-6" />
           </div>
           <span className="text-2xl font-display font-bold tracking-tighter">
-            Revenue<span className="gradient-text">UpFlow</span>
+            Revenus<span className="gradient-text">UpFlow</span>
           </span>
         </Link>
 
